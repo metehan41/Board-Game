@@ -22,3 +22,5 @@ have extraordinary power. Elf can make ranged attacks in the final attack. A ran
 attack effect two cells away. And Orks can heal friends' characters in 
 neighbor cells. The game ends when all characters on one side are dead. The game 
 dynamic is simply this
+
+Not: UML Diagram added.
